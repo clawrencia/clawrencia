@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @clawrencia
-- 👀 I’m interested in ML, DevOps, AWS, Cloud Tech, Data
 
 
 <!---
